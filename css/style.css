@@ -1,0 +1,22 @@
+head{
+    color:white;
+}
+
+.imag1, .imag2, .imag
+{
+    max-width: 100%;
+    height: auto;
+    border: 10px solid, rgb(208, 255, 0);
+    display: block;
+    margin: auto;
+}
+p
+ {
+    font-weight: 100;
+}
+body {
+    background-color:black;
+    color:rgb(238, 98, 17);
+    padding-left: 50px;
+    padding-right: 50px;
+}
